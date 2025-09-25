@@ -266,7 +266,7 @@ export const JobSelection: React.FC<JobSelectionProps> = ({ onJobSelect }) => {
                   
                   <div className="mt-4 flex justify-end">
                     <Button variant="ghost" size="sm" className="text-primary">
-                      View Details <ChevronRight className="w-4 h-4 ml-1" />
+                      Apply Now <ChevronRight className="w-4 h-4 ml-1" />
                     </Button>
                   </div>
                 </CardContent>
